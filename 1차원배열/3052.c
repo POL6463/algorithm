@@ -22,7 +22,7 @@ int main(void)
             }
         }
 
-        if (n == 0 && is0 == 0)
+        if (n % 42 == 0 && is0 == 0)
         {
             is0 = 1;
             counter++;
