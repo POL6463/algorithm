@@ -7,7 +7,6 @@ int main(void)
     int counter = 1;
 
     scanf("%d", &a);
-    
     b = a;
     if (a < 10)
     {
