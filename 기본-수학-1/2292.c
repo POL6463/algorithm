@@ -9,15 +9,6 @@ int main(void)
     int total = 1;
     
 
-    // if(n == 0)
-    // {
-    //     if (N > 1)
-    //     {
-    //         n++;
-    //     }
-    // }
-    
-
     for(i = 1; total < N; i++)
     {
         total += (6 * n);
